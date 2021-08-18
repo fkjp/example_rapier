@@ -1,3 +1,7 @@
+### note
+Rustの物理演算エンジンRapierを使う
+https://note.com/build_a_computer/n/n40aa4eba99a2 
+
 ### ボールを床に落とす
 src/main.rs
 ```
